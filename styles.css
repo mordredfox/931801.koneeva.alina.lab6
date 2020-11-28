@@ -1,0 +1,43 @@
+*{
+	margin:0;
+}
+.wrapper {	
+	width:900px;
+	margin:auto;
+	height:350px;
+}
+button {
+	background:red;
+	border:2px black solid;
+	width:300px;
+	padding:10px;
+	color: white;
+	font-size:20px;
+	margin-right:-4px;
+}
+.button{
+width: 100%;
+}
+#left {
+	background-color:blue;
+	width:50%;
+	float:left;
+	height:100%;
+}
+#right {
+	background-color:green;
+	width:50%;
+	float:right;
+	height:100%;	
+}
+img {
+	width:90%;
+	height:90%;
+	margin:20px;
+}
+#dog {
+	visibility:visible;
+}	
+#cat {
+	visibility:visible;
+}
